@@ -15,3 +15,8 @@ I am a fullstack JavaScript Developer from Dhaka, Bangladesh. I love to work wit
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=sh4hids&repo=prayertiming-cli&theme=dark" />
 </a> 
+
+#### My Github Stats
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sh4hids&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
