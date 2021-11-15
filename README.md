@@ -18,5 +18,4 @@ I am a fullstack JavaScript Developer from Dhaka, Bangladesh. I love to work wit
 
 #### My Github Stats
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sh4hids&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sh4hids&theme=dark&date_format=M%20j%5B%2C%20Y%5D&ring=89ED96&fire=89ED96&currStreakLabel=89ED96)](https://git.io/streak-stats)
